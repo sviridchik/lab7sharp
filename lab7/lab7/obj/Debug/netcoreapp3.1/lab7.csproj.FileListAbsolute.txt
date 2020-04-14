@@ -1,0 +1,10 @@
+/Users/victoriasviridchik/RiderProjects/lab7/lab7/bin/Debug/netcoreapp3.1/lab7.deps.json
+/Users/victoriasviridchik/RiderProjects/lab7/lab7/bin/Debug/netcoreapp3.1/lab7.runtimeconfig.json
+/Users/victoriasviridchik/RiderProjects/lab7/lab7/bin/Debug/netcoreapp3.1/lab7.runtimeconfig.dev.json
+/Users/victoriasviridchik/RiderProjects/lab7/lab7/bin/Debug/netcoreapp3.1/lab7.dll
+/Users/victoriasviridchik/RiderProjects/lab7/lab7/bin/Debug/netcoreapp3.1/lab7.pdb
+/Users/victoriasviridchik/RiderProjects/lab7/lab7/obj/Debug/netcoreapp3.1/lab7.csprojAssemblyReference.cache
+/Users/victoriasviridchik/RiderProjects/lab7/lab7/obj/Debug/netcoreapp3.1/lab7.AssemblyInfoInputs.cache
+/Users/victoriasviridchik/RiderProjects/lab7/lab7/obj/Debug/netcoreapp3.1/lab7.AssemblyInfo.cs
+/Users/victoriasviridchik/RiderProjects/lab7/lab7/obj/Debug/netcoreapp3.1/lab7.dll
+/Users/victoriasviridchik/RiderProjects/lab7/lab7/obj/Debug/netcoreapp3.1/lab7.pdb
